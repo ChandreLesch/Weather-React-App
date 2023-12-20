@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="Footer">
       <small>
         <a
-          href="https://github.com/ChandreLesch/vanilla-weather-app"
+          href="https://github.com/ChandreLesch/Weather-React-App"
           target="_blank"
         >
           Open-source code,
